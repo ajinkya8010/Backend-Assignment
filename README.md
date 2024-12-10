@@ -19,7 +19,8 @@ npm install
 ```
 
 ### 3. Set up the environment variables
-Refer envSample
+Create a .env file
+Refer envSample for contents
 
 ### 4. Run the application
 ```bash
