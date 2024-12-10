@@ -1,0 +1,4 @@
+PORT = (E.g., 3001)
+CORS_ORIGIN = (E.g., *)
+MONGODB_URI = 
+JWT_SECRET_KEY = 
