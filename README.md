@@ -9,8 +9,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/ajinkya8010/Backend-Assignment
+cd Backend-Assignment
 ```
 
 ### 1. Install dependencies
@@ -28,7 +28,7 @@ node app.js
 ```
 
 ### 5. API Documentation
-http://localhost:3001/api-docs
+http://localhost:{port_number}/api-docs
 
 
 
